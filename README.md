@@ -1,1 +1,2 @@
 # TextProcessing
+Task: develop a program that provides clustering of the news flow. It is necessary to load the news feed, highlighting thematic notes from it (if any). Next, you should vectorize the texts, carry out their clustering and check the accuracy of clustering by thematic labels. You should also choose one of the clusters and train the classifier on it. The accuracy of the classifier is determined using the f1-measure and the error matrix.
